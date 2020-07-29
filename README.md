@@ -1,1 +1,1 @@
-# GitPratice
+This is the sample case in hypotical senario 
